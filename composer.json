@@ -1,2 +1,12 @@
 {
+  "name": "urfu/php_project",
+  "type": "project",
+  "description": "LabWork",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
 }
+
